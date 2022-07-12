@@ -21,4 +21,4 @@ Site ficticio de notícias para colocar em prática os conhecimentos já aprendi
 
 # 📍 Como posso acessar esse projeto
 
-- Github pages: https://lrauane.github.io/noticias-cidade/
+- Github pages: https://lrauane.github.io/Memory-game/
