@@ -10,7 +10,7 @@ Jogo da memória com tema do Rick and Morty feito com HTML, CSS e JavaScript
 - CSS3
 
 # 📍 Explicação do projeto
-Site ficticio de notícias para colocar em prática os conhecimentos já aprendidos nas aulas da UDEMY.
+Jogo da memória com tema do Rick and Morty feito com HTML, CSS e JavaScript.
  
 # 📍 Redes sociais 
  ## Me acompanhe também pelas redes sociais
